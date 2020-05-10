@@ -1,0 +1,172 @@
+{
+	"Customer": [{
+			"Cname": "Sanket",
+			"CID": 1,
+			"Orders": [{
+					"name": "DellLaptop",
+					"OID": 1,
+					"Date":"05/06/2020"
+				},
+				{
+					"name": "GoProCam",
+					"OID": 2,
+					"Date":"05/08/2020"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Mahesh",
+			"CID": 2,
+			"Orders": [{
+					"name": "Fastrack",
+					"OID": 1,
+					"Date":"05/07/2020"
+				},
+				{
+					"name": "G-shock",
+					"OID": 2,
+					"Date":"05/09/2020"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Abha",
+			"CID": 3,
+			"Orders": [{
+					"name": "RayBanGlares",
+					"OID": 1,
+					"Date":"05/08/2020"
+				},
+				{
+					"name": "NikeSkechers",
+					"OID": 2,
+					"Date":"05/08/2020"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Pooja",
+			"CID": 4,
+			"Orders": [{
+					"name": "ArtistryCosmetics",
+					"OID": 1,
+					"Date":"04/12/2020"
+				},
+				{
+					"name": "Prada",
+					"OID": 2,
+					"Date":"04/29/2020"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Harsh",
+			"CID": 5,
+			"Orders": [{
+					"name": "LevisJeans",
+					"OID": 1,
+					"Date":"05/01/2020"
+				},
+				{
+					"name": "Adidas",
+					"OID": 2,
+					"Date":"12/01/2020"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Siddhi",
+			"CID": 6,
+			"Orders": [{
+					"name": "AdidasFlippers",
+					"OID": 1,
+					"Date":"04/15/2020"
+				},
+				{
+					"name": "GucciPurse",
+					"OID": 2,
+					"Date":"02/01/2020"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Viraj",
+			"CID": 7,
+			"Orders": [{
+					"name": "PeterEnglandShirt",
+					"OID": 1,
+					"Date":"12/12/2019"
+				},
+				{
+					"name": "CalvinKlein",
+					"OID": 2,
+					"Date":"04/07/2020"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Utkarsha",
+			"CID": 8,
+			"Orders": [{
+					"name": "KateSpadeBag",
+					"OID": 1,
+					"Date":"04/22/2020"
+				},
+				{
+					"name": "MichaelCors",
+					"OID": 2,
+					"Date":"04/22/2020"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Aditi",
+			"CID": 9,
+			"Orders": [{
+					"name": "NikeShoes",
+					"OID": 1,
+					"Date":"01/18/2020"
+				},
+				{
+					"name": "KodakCamera",
+					"OID": 2,
+					"Date":"03/04/2020"
+				}
+			]
+
+		},
+		{
+
+			"Cname": "Raghav",
+			"CID": 10,
+			"Orders": [{
+					"name": "MuftiJeans",
+					"OID": 1,
+					"Date":"05/01/2020"
+				},
+				{
+					"name": "IphoneX",
+					"OID": 2,
+					"Date":"05/03/2020"
+				}
+			]
+
+		}
+	]
+}
